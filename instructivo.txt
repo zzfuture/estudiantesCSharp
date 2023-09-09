@@ -1,0 +1,16 @@
+    El profesor del area de matematicas  necesita crear un programa para registrar los estudiantes que se encuentan matriculados, la informacion que el docente posee de cada estudiante: 
+    Codigo del estudiante con una longitud maxima de 15 caracteres
+    Nombre del estuidante con una longitud maxima de 40 caracteres
+    Correo electronico del estudiante con una longitud maxima de 40 caracteres
+    Edad del estudiante y direccion con una longitud maxima de 35 caracteres
+    No se conoce la cantidad de estuidantes que se registraron en la asignatura
+    La universidad tiene como norma que cada estudiante tiene que presentar 4 quizes 2 trabajos y 3 parciales
+    Las notas de los quizes equivalen al 25%, los trabajos 15% y los parciales al 60%
+    El programa debe permitirle al profesor generar los siguientes reportes
+    1. Listado general de notas del grupo paginado por 10 estudiantes
+    CODIGO    NOMBRE    QUIZES    TRABAJOS    PARCIALES
+                     Q1 Q2 Q3 Q4   T1 T2      P1 P2 P3
+    NOTAS FINALES
+    CODIGO    NOMBRE   DEFQUICES  DEF TRABAJOS  DEF PARCIALES  NOTA FINAL
+
+    El programa debe permitirle al docente realizar todo el proceso de registro de notas por quizes y trabajos parciales

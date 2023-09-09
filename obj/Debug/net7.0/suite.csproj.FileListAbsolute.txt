@@ -1,0 +1,43 @@
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\bin\Debug\net7.0\suite.exe
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\bin\Debug\net7.0\suite.deps.json
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\bin\Debug\net7.0\suite.runtimeconfig.json
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\bin\Debug\net7.0\suite.dll
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\bin\Debug\net7.0\suite.pdb
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\obj\Debug\net7.0\suite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\obj\Debug\net7.0\suite.AssemblyInfoInputs.cache
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\obj\Debug\net7.0\suite.AssemblyInfo.cs
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\obj\Debug\net7.0\suite.csproj.CoreCompileInputs.cache
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\obj\Debug\net7.0\suite.dll
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\obj\Debug\net7.0\refint\suite.dll
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\obj\Debug\net7.0\suite.pdb
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\obj\Debug\net7.0\suite.genruntimeconfig.cache
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\obj\Debug\net7.0\ref\suite.dll
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\suite\bin\Debug\net7.0\suite.exe
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\suite\bin\Debug\net7.0\suite.deps.json
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\suite\bin\Debug\net7.0\suite.runtimeconfig.json
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\suite\bin\Debug\net7.0\suite.dll
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\suite\bin\Debug\net7.0\suite.pdb
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\suite\obj\Debug\net7.0\suite.csproj.AssemblyReference.cache
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\suite\obj\Debug\net7.0\suite.GeneratedMSBuildEditorConfig.editorconfig
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\suite\obj\Debug\net7.0\suite.AssemblyInfoInputs.cache
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\suite\obj\Debug\net7.0\suite.AssemblyInfo.cs
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\suite\obj\Debug\net7.0\suite.csproj.CoreCompileInputs.cache
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\suite\obj\Debug\net7.0\suite.dll
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\suite\obj\Debug\net7.0\refint\suite.dll
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\suite\obj\Debug\net7.0\suite.pdb
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\suite\obj\Debug\net7.0\suite.genruntimeconfig.cache
+E:\PROGRAMACION\CAMPUS\NET CORE\csharp\suite\obj\Debug\net7.0\ref\suite.dll
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\suite\bin\Debug\net7.0\suite.exe
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\suite\bin\Debug\net7.0\suite.deps.json
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\suite\bin\Debug\net7.0\suite.runtimeconfig.json
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\suite\bin\Debug\net7.0\suite.dll
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\suite\bin\Debug\net7.0\suite.pdb
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\suite\obj\Debug\net7.0\suite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\suite\obj\Debug\net7.0\suite.AssemblyInfoInputs.cache
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\suite\obj\Debug\net7.0\suite.AssemblyInfo.cs
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\suite\obj\Debug\net7.0\suite.csproj.CoreCompileInputs.cache
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\suite\obj\Debug\net7.0\suite.dll
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\suite\obj\Debug\net7.0\refint\suite.dll
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\suite\obj\Debug\net7.0\suite.pdb
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\suite\obj\Debug\net7.0\suite.genruntimeconfig.cache
+C:\Users\APM02-51\Documents\IKER\c-sharp\suite\suite\obj\Debug\net7.0\ref\suite.dll
