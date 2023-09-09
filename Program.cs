@@ -119,6 +119,9 @@ internal class Program
                                         }
                                         else{Console.WriteLine($"Nota Actual Trabajo {quiz}: {listaEstudiantes[i].Quices[quiz - 1]}");}
                                         double nuevaNotaQuiz = Math.Round(ConvertirEntradaNumerica<float>($"Nueva nota para Quiz {quiz}: "), 1);
+                                        while (nuevaNotaQuiz > 5 || nuevaNotaQuiz < 0){
+                                            nuevaNotaQuiz = Math.Round(ConvertirEntradaNumerica<float>($"Por favor ingrese un valor entre 0 y 5: "), 1);
+                                        }
                                         listaEstudiantes[i].Quices[quiz - 1] = (float)nuevaNotaQuiz;
                                         break;
                                     }
@@ -150,6 +153,9 @@ internal class Program
                                         }
                                         else{Console.WriteLine($"Nota Actual Trabajo {trabajo}: {listaEstudiantes[i].Trabajos[trabajo - 1]}");}
                                         double nuevaNotaTrabajo = Math.Round(ConvertirEntradaNumerica<float>($"Nueva nota para Trabajo {trabajo}: "), 1);
+                                        while (nuevaNotaTrabajo > 5 || nuevaNotaTrabajo < 0){
+                                            nuevaNotaTrabajo = Math.Round(ConvertirEntradaNumerica<float>($"Por favor ingrese un valor entre 0 y 5: "), 1);
+                                        }
                                         listaEstudiantes[i].Trabajos[trabajo - 1] = (float)nuevaNotaTrabajo;
                                         
                                         break;
@@ -182,6 +188,9 @@ internal class Program
                                         }
                                         else {Console.WriteLine($"Nota Actual Parcial {parcial}: {listaEstudiantes[i].Parciales[parcial - 1]}");}
                                         double nuevaNotaParcial = Math.Round(ConvertirEntradaNumerica<float>($"Nueva nota para Parcial {parcial}: "), 1);
+                                        while (nuevaNotaParcial > 5 || nuevaNotaParcial < 0){
+                                            nuevaNotaParcial = Math.Round(ConvertirEntradaNumerica<float>($"Por favor ingrese un valor entre 0 y 5: "), 1);
+                                        }
                                         listaEstudiantes[i].Parciales[parcial - 1] = (float)nuevaNotaParcial;
                                         break;
                                     }
