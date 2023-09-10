@@ -61,20 +61,20 @@ internal class Program
             {
                 case 1:
                     Console.Clear();
-                    Console.WriteLine("{0,17} {1,-40} {2,6} {3,6} {4,6} {5,6} {6,6} {7,6} {8,6} {9,6}", "Codigo Estudiante", "Nombre", "Q1", "Q2", "Q3", "T1", "T2", "P1", "P2", "P3");
+                    Console.WriteLine("{0,17} {1,-40} {2,6} {3,6} {4,6} {5,6} {6,6} {7,6} {8,6} {9,6} {10,6}", "Codigo Estudiante", "Nombre", "Q1", "Q2", "Q3", "Q4", "T1", "T2", "P1", "P2", "P3");
                     for (int i = 0; i < listaEstudiantes.Count; i++)
                     {
-                        Console.WriteLine("{0,-17} {1,-40} {2,6} {3,6} {4,6} {5,6} {6,6} {7,6} {8,6} {9,6}", listaEstudiantes[i].Codigo, listaEstudiantes[i].Nombre, listaEstudiantes[i].Quices[0], listaEstudiantes[i].Quices[1], listaEstudiantes[i].Quices[2], listaEstudiantes[i].Trabajos[0], listaEstudiantes[i].Trabajos[1], listaEstudiantes[i].Parciales[0], listaEstudiantes[i].Parciales[1], listaEstudiantes[i].Parciales[2]);
+                        Console.WriteLine("{0,-17} {1,-40} {2,6} {3,6} {4,6} {5,6} {6,6} {7,6} {8,6} {9,6}", listaEstudiantes[i].Codigo, listaEstudiantes[i].Nombre, listaEstudiantes[i].Quices[0], listaEstudiantes[i].Quices[1], listaEstudiantes[i].Quices[2], listaEstudiantes[i].Quices[3], listaEstudiantes[i].Trabajos[0], listaEstudiantes[i].Trabajos[1], listaEstudiantes[i].Parciales[0], listaEstudiantes[i].Parciales[1], listaEstudiantes[i].Parciales[2]);
                     }
                     Console.Write("Presione cualquier tecla para continuar...");
                     Console.ReadKey();
                     break;
                 case 2:
                     Console.Clear();
-                    Console.WriteLine("{0,17} {1,-40} {2,6} {3,6} {4,6} {5,6} {6,6} {7,6} {8,6} {9,6}", "Codigo Estudiante", "Nombre", "Q1", "Q2", "Q3", "T1", "T2", "P1", "P2", "P3");
+                    Console.WriteLine("{0,17} {1,-40} {2,6} {3,6} {4,6} {5,6} {6,6} {7,6} {8,6} {9,6} {10,6}", "Codigo Estudiante", "Nombre", "Q1", "Q2", "Q3", "Q4", "T1", "T2", "P1", "P2", "P3");
                     for (int i = 0; i < listaEstudiantes.Count; i++)
                     {
-                        Console.WriteLine("{0,-17} {1,-40} {2,6} {3,6} {4,6} {5,6} {6,6} {7,6} {8,6} {9,6}", listaEstudiantes[i].Codigo, listaEstudiantes[i].Nombre, listaEstudiantes[i].Quices[0], listaEstudiantes[i].Quices[1], listaEstudiantes[i].Quices[2], listaEstudiantes[i].Trabajos[0], listaEstudiantes[i].Trabajos[1], listaEstudiantes[i].Parciales[0], listaEstudiantes[i].Parciales[1], listaEstudiantes[i].Parciales[2]);
+                        Console.WriteLine("{0,-17} {1,-40} {2,6} {3,6} {4,6} {5,6} {6,6} {7,6} {8,6} {9,6}", listaEstudiantes[i].Codigo, listaEstudiantes[i].Nombre, listaEstudiantes[i].Quices[0], listaEstudiantes[i].Quices[1], listaEstudiantes[i].Quices[2], listaEstudiantes[i].Quices[3], listaEstudiantes[i].Trabajos[0], listaEstudiantes[i].Trabajos[1], listaEstudiantes[i].Parciales[0], listaEstudiantes[i].Parciales[1], listaEstudiantes[i].Parciales[2]);
                     }
                     Console.Write("Codigo del estudiante: ");
                     string codigoEstudiante = Console.ReadLine();
@@ -83,8 +83,8 @@ internal class Program
                     {
                         if (listaEstudiantes[i].Codigo.Equals(codigoEstudiante))
                         {
-                            Console.WriteLine("{0,17} {1,-40} {2,6} {3,6} {4,6} {5,6} {6,6} {7,6} {8,6} {9,6}", "Codigo Estudiante", "Nombre", "Q1", "Q2", "Q3", "T1", "T2", "P1", "P2", "P3");
-                            Console.WriteLine("{0,-17} {1,-40} {2,6} {3,6} {4,6} {5,6} {6,6} {7,6} {8,6} {9,6}", listaEstudiantes[i].Codigo, listaEstudiantes[i].Nombre, listaEstudiantes[i].Quices[0], listaEstudiantes[i].Quices[1], listaEstudiantes[i].Quices[2], listaEstudiantes[i].Trabajos[0], listaEstudiantes[i].Trabajos[1], listaEstudiantes[i].Parciales[0], listaEstudiantes[i].Parciales[1], listaEstudiantes[i].Parciales[2]);
+                            Console.WriteLine("{0,17} {1,-40} {2,6} {3,6} {4,6} {5,6} {6,6} {7,6} {8,6} {9,6} {10,6}", "Codigo Estudiante", "Nombre", "Q1", "Q2", "Q3", "Q4", "T1", "T2", "P1", "P2", "P3");
+                            Console.WriteLine("{0,-17} {1,-40} {2,6} {3,6} {4,6} {5,6} {6,6} {7,6} {8,6} {9,6}", listaEstudiantes[i].Codigo, listaEstudiantes[i].Nombre, listaEstudiantes[i].Quices[0], listaEstudiantes[i].Quices[1], listaEstudiantes[i].Quices[2], listaEstudiantes[i].Quices[3], listaEstudiantes[i].Trabajos[0], listaEstudiantes[i].Trabajos[1], listaEstudiantes[i].Parciales[0], listaEstudiantes[i].Parciales[1], listaEstudiantes[i].Parciales[2]);
                             Console.WriteLine("1. Ingresar valores quizes");
                             Console.WriteLine("2. Ingresar valores trabajos");
                             Console.WriteLine("3. Ingresar valores parciales");
